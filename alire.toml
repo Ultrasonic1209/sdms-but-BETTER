@@ -8,3 +8,6 @@ maintainers-logins = ["ATPStorages"]
 licenses = "Apache-2.0 WITH LLVM-exception"
 website = "https://github.com/ATPStorages/sdms.git"
 tags = ["email", "mail", "client", "server", "pop", "pop3", "smtp", "imap"]
+
+[[depends-on]]
+gtkada = "^24.0.0"
